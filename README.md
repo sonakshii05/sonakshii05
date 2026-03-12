@@ -62,4 +62,4 @@ Debate & Elocution
 
 
 **🔗 Portfolio:**
-👉 https://sonakshii05.github.io/Portfolio/
+👉https://ripi-ai.onrender.com/
