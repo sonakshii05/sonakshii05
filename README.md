@@ -187,6 +187,11 @@ Python experimentation project strengthening scripting and logic skills.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
+## 🌱Learning
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Queries-important?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-Practice-success?style=for-the-badge)
 
 ## 🤝 Connect With Me
 
