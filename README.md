@@ -179,14 +179,7 @@ Python experimentation project strengthening scripting and logic skills.
 
 ---
 
-## ⚡ Currently Learning (Auto Updates)
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
-
----
 ## 🌱Learning
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge)
