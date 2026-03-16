@@ -106,16 +106,58 @@ Early in my journey — but deeply committed to growth.
 ## 🌐 Portfolio
 
 👉 https://ripi-ai.onrender.com/
+
 👉https://portfolio-sp1.netlify.app/
 ---
 ## 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/sonakshii05">GitHub</a> •
-  <a href="https://ripi-ai.onrender.com/">Portfolio</a>
+  <a href="https://ripi-ai.onrender.com/">Portfolio</a> 
+  
    <a href="https://portfolio-sp1.netlify.app/">Portfolio</a>
   
 </p>
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Ripi — AI Portfolio Assistant
+A personal AI-powered portfolio assistant designed to present projects and information interactively through a clean frontend interface.
+
+**Tech:** HTML • CSS • JavaScript • UI Design  
+
+🔗 https://github.com/sonakshii05/ripi  
+🌐 Live: https://ripi-ai.onrender.com/
+
+---
+
+### 📈 LeetCode Tracker
+A system to track coding practice and problem-solving progress, helping maintain consistency and visualize learning growth.
+
+**Tech:** JavaScript • GitHub Workflow  
+
+🔗 https://github.com/sonakshii05/Leetcode_tracker
+
+---
+
+### 🌐 Personal Portfolio Website
+A responsive portfolio website showcasing skills, projects, and development journey.
+
+**Tech:** HTML • CSS  
+
+🔗 https://github.com/sonakshii05/Portfolio
+
+---
+
+### 🐍 HarrSayHi (Python Project)
+A Python-based project exploring libraries and scripting concepts while strengthening backend logic and programming fundamentals.
+
+**Tech:** Python  
+
+🔗 https://github.com/sonakshii05/harrsayhi
+
+---
 
 <p align="center">
 ✨ Learning every day. Building patiently. Growing intentionally.
