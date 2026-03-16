@@ -14,6 +14,12 @@ Turning data into insight and ideas into clean interfaces.
   <img src="https://komarev.com/ghpvc/?username=sonakshii05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Frontend+Developer;DSA+Learner;Building+Consistency+Every+Day"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+
 ---
 
 ## 🌙 About Me
@@ -22,9 +28,11 @@ Turning data into insight and ideas into clean interfaces.
 📊 Focused on **Data Analysis & Problem Solving**  
 💻 Experience building **clean frontend interfaces**  
 🧠 Strengthening **DSA & core CS fundamentals**  
-🚀 Believe in learning through consistent building
+🚀 Learning by building, refining, and improving every day
 
 I enjoy working with structured logic — analyzing data, discovering patterns, and presenting insights through intuitive designs.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
 
@@ -39,24 +47,26 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 
 ### 🌐 Web Development
 <p>
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=orange"/>
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=blue"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
 </p>
 
 ### 📊 Data & Analysis
 <p>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=databricks&logoColor=red"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=databricks"/>
 </p>
 
 ### ⚙️ Tools
 <p>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=orange"/>
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
 
@@ -64,9 +74,10 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 
 - 📈 Building **data-driven projects**
 - 🎨 Visualizing insights using frontend skills
-- 🧩 Practicing DSA  
-  *(Arrays • Strings • Recursion • Trees • Graphs)*
+- 🧩 Practicing DSA *(Arrays • Strings • Trees • Graphs)*
 - 💼 Preparing for technical interviews
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
 
@@ -81,84 +92,112 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
   <img src="https://streak-stats.demolab.com?user=sonakshii05&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🧠 Why Hire Me
-
-I combine analytical thinking with consistent execution.
-
-I’m comfortable moving from **raw data → structured logic → clear presentation**.  
-I adapt quickly, value feedback, and focus on building solutions that are practical and meaningful.
-
-Early in my journey — but deeply committed to growth.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
 
-## 🗣️ Communication & Expression
+<h2 align="center">🚀 Featured Projects</h2>
 
-🌐 English | Hindi | Odia  
-✍️ Creative Writing  
-🎤 Public Speaking  
-🏆 Debate & Elocution
+<table>
+<tr>
+<td width="50%">
 
----
+<h3>🤖 Ripi — AI Portfolio Assistant</h3>
 
-## 🌐 Portfolio
-
-👉 https://ripi-ai.onrender.com/
-
-👉https://portfolio-sp1.netlify.app/
----
-## 🤝 Connect With Me
+Interactive AI-powered portfolio experience built with clean UI principles.
 
 <p>
-  <a href="https://github.com/sonakshii05">GitHub</a> •
-  <a href="https://ripi-ai.onrender.com/">Portfolio</a> 
-  
-   <a href="https://portfolio-sp1.netlify.app/">Portfolio</a>
-  
+<img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
 </p>
+
+<a href="https://github.com/sonakshii05/ripi">
+<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://ripi-ai.onrender.com/">
+<img src="https://img.shields.io/badge/Live%20Demo-2563eb?style=for-the-badge&logo=vercel"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>📈 LeetCode Tracker</h3>
+
+Tracks coding consistency and visualizes problem-solving growth.
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
+</p>
+
+<a href="https://github.com/sonakshii05/Leetcode_tracker">
+<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🌐 Personal Portfolio</h3>
+
+Minimal responsive portfolio showcasing projects and journey.
+
+<p>
+<img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3"/>
+</p>
+
+<a href="https://github.com/sonakshii05/Portfolio">
+<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>🐍 HarrSayHi</h3>
+
+Python experimentation project strengthening scripting and logic skills.
+
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+</p>
+
+<a href="https://github.com/sonakshii05/harrsayhi">
+<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+
 ---
 
-## 🚀 Featured Projects
+## ⚡ Currently Learning (Auto Updates)
 
-### 🤖 Ripi — AI Portfolio Assistant
-A personal AI-powered portfolio assistant designed to present projects and information interactively through a clean frontend interface.
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-**Tech:** HTML • CSS • JavaScript • UI Design  
-
-🔗 https://github.com/sonakshii05/ripi  
-🌐 Live: https://ripi-ai.onrender.com/
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
 
-### 📈 LeetCode Tracker
-A system to track coding practice and problem-solving progress, helping maintain consistency and visualize learning growth.
+## 🤝 Connect With Me
 
-**Tech:** JavaScript • GitHub Workflow  
-
-🔗 https://github.com/sonakshii05/Leetcode_tracker
-
----
-
-### 🌐 Personal Portfolio Website
-A responsive portfolio website showcasing skills, projects, and development journey.
-
-**Tech:** HTML • CSS  
-
-🔗 https://github.com/sonakshii05/Portfolio
-
----
-
-### 🐍 HarrSayHi (Python Project)
-A Python-based project exploring libraries and scripting concepts while strengthening backend logic and programming fundamentals.
-
-**Tech:** Python  
-
-🔗 https://github.com/sonakshii05/harrsayhi
+<p align="center">
+  <a href="https://github.com/sonakshii05">GitHub</a> •
+  <a href="https://ripi-ai.onrender.com/">Portfolio</a> •
+  <a href="https://portfolio-sp1.netlify.app/">Portfolio v2</a>
+</p>
 
 ---
 
 <p align="center">
-✨ Learning every day. Building patiently. Growing intentionally.
+<i>Learning deliberately. Building patiently. Growing beyond comfort.</i>
 </p>
