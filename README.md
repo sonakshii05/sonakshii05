@@ -106,13 +106,15 @@ Early in my journey — but deeply committed to growth.
 ## 🌐 Portfolio
 
 👉 https://ripi-ai.onrender.com/
-
+👉https://portfolio-sp1.netlify.app/
 ---
 ## 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/sonakshii05">GitHub</a> •
   <a href="https://ripi-ai.onrender.com/">Portfolio</a>
+   <a href="https://portfolio-sp1.netlify.app/">Portfolio</a>
+  
 </p>
 
 <p align="center">
