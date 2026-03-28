@@ -186,6 +186,60 @@ Python experimentation project strengthening scripting and logic skills.
 ![SQL](https://img.shields.io/badge/SQL-Queries-important?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-Practice-success?style=for-the-badge)
 
+<table>
+<tr>
+
+<td width="50%">
+
+<h3>🦠 COVID-19 Data Analysis</h3>
+
+Exploring global pandemic trends through data cleaning, exploratory analysis, and interactive visualizations to uncover patterns in cases, deaths, and recovery rates.
+
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge"/>
+</p>
+
+🚀 <b>Focus</b><br>
+• Data Cleaning & EDA<br>
+• Trend Visualization<br>
+• Insight Extraction from Real-World Dataset<br>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-2563eb?style=for-the-badge"/>
+
+</td>
+
+<td width="50%">
+
+<h3>💬 Sentiment Analysis using NLP</h3>
+
+Building an NLP pipeline that analyzes textual data to classify emotions and understand public opinion using machine learning techniques.
+
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit"/>
+</p>
+
+🚀 <b>Focus</b><br>
+• Text Preprocessing<br>
+• Sentiment Classification<br>
+• Interactive Dashboard<br>
+
+<br>
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-2563eb?style=for-the-badge"/>
+
+</td>
+
+</tr>
+</table>
+
 ## 🤝 Connect With Me
 
 <p align="center">
