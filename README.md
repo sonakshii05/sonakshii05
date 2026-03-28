@@ -178,7 +178,14 @@ Python experimentation project strengthening scripting and logic skills.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
+## 💡 Upcoming Ideas
+
+- 📈 Real-time interactive data dashboards  
+- 💬 Advanced emotion detection using NLP  
+- 🌍 Data storytelling through visualization-driven web apps  
+- 🤖 AI-assisted analytics tools
 
 ## 🌱Learning
 
@@ -239,6 +246,29 @@ Building an NLP pipeline that analyzes textual data to classify emotions and und
 
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+
+## 🧭 What I'm Building Toward
+
+I aim to grow into a Data Analyst who combines analytical thinking with intuitive visualization — transforming raw datasets into meaningful stories that support real decisions.
+
+Currently focusing on:
+
+- 📊 Strengthening data analysis foundations
+- 🧠 Applying NLP to real-world datasets
+- 🎨 Connecting data insights with clean user interfaces
+- 🚀 Building projects that reflect continuous improvement
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+
+## 🧩 How I Approach Projects
+
+- Understand the problem before choosing tools  
+- Prefer clarity and structure over complexity  
+- Build working solutions first, then refine  
+- Treat every project as a learning iteration  
+- Focus on consistency rather than speed.
 
 ## 🤝 Connect With Me
 
