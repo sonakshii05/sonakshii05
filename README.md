@@ -50,6 +50,9 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/Tailwind Css-111827?style=for-the-badge&logo=tailwindCss"/>
+
 </p>
 
 ### 📊 Data & Analysis
@@ -57,6 +60,9 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
 <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=databricks"/>
+<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+
 </p>
 
 ### ⚙️ Tools
