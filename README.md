@@ -124,6 +124,12 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 <table>
 <tr>
 <td width="50%">
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 <h3>🤖 Ripi — AI Portfolio Assistant</h3>
 
@@ -145,97 +151,89 @@ Interactive AI-powered portfolio experience built with clean UI principles.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🐍 HarrSayHi</h3>
+<h3>☕ CafeX — Anime Café Website</h3>
 
-Python experimentation project strengthening scripting and logic skills.
+Responsive anime-themed café website with smooth UI and modern design.
 
 <p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
 </p>
 
-<a href="https://github.com/sonakshii05/harrsayhi">
+<a href="https://github.com/sonakshii05/coffee-website">
 <img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
+
 </tr>
-</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
-
----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
-
-## 💡 Upcoming Ideas
-
-- 📈 Real-time interactive data dashboards  
-- 💬 Advanced emotion detection using NLP  
-- 🌍 Data storytelling through visualization-driven web apps  
-- 🤖 AI-assisted analytics tools
-
-## 🌱Learning
-
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Queries-important?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-Practice-success?style=for-the-badge)
-
-<table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🦠 COVID-19 Data Analysis</h3>
+<h3>📊 COVID-19 Data Analysis Dashboard</h3>
 
-Exploring global pandemic trends through data cleaning, exploratory analysis, and interactive visualizations to uncover patterns in cases, deaths, and recovery rates.
+Interactive dashboard analyzing global COVID-19 trends using Python and Streamlit.
 
 <p>
 <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit"/>
 <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge"/>
 </p>
 
-🚀 <b>Focus</b><br>
-• Data Cleaning & EDA<br>
-• Trend Visualization<br>
-• Insight Extraction from Real-World Dataset<br>
-
-<br>
-
-<img src="https://img.shields.io/badge/Status-completed-2563eb?style=for-the-badge"/>
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>💬 Sentiment Analysis using NLP</h3>
+<h3>😊 Emotion Decoder</h3>
 
-Building an NLP pipeline that analyzes textual data to classify emotions and understand public opinion using machine learning techniques.
+Java desktop application for emotion detection with MySQL database integration.
 
 <p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/AWT-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
 </p>
 
-🚀 <b>Focus</b><br>
-• Text Preprocessing<br>
-• Sentiment Classification<br>
-• Interactive Dashboard<br>
-
-<br>
-
-<img src="https://img.shields.io/badge/Status-In%20Progress-2563eb?style=for-the-badge"/>
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
 </tr>
-</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏀 NBA Player Analytics Dashboard</h3>
+
+Explores NBA player performance using SQL, Python, Excel, and Tableau.
+
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
+</p>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🧭 What I'm Building Toward
 
@@ -258,12 +256,30 @@ Currently focusing on:
 - Treat every project as a learning iteration  
 - Focus on consistency rather than speed.
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/sonakshii05">GitHub</a> •
-  <a href="https://ripi-ai.onrender.com/">Portfolio</a> •
-  <a href="https://portfolio-sp1.netlify.app/">Portfolio v2</a>
+
+<a href="https://github.com/sonakshii05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://ripi-ai.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://portfolio-sp1.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio%20V2-0f172a?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
