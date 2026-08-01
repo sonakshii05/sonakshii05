@@ -40,19 +40,18 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 
 ### 💻 Languages
 <p>
-<img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
 <p>
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Tailwind Css-111827?style=for-the-badge&logo=tailwindCss"/>
-
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss"/>
 </p>
 
 ### 📊 Data & Analysis
@@ -63,23 +62,34 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
   <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
   <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi"/>
   <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebooks-111827?style=for-the-badge&logo=jupyter"/>
   <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly"/>
-  <img src="https://img.shields.io/badge/CSV-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-111827?style=for-the-badge&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Tools
 <p>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/GitHub%20Desktop-111827?style=for-the-badge&logo=github"/>
+</p>
+
+### 🚀 Currently Learning
+<p>
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
-
 ## 🎯 Current Focus
 
 - 📈 Building **data-driven projects**
