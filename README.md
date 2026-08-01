@@ -85,6 +85,9 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r"/>
+  <img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
@@ -138,41 +141,6 @@ Interactive AI-powered portfolio experience built with clean UI principles.
 
 <a href="https://ripi-ai.onrender.com/">
 <img src="https://img.shields.io/badge/Live%20Demo-2563eb?style=for-the-badge&logo=vercel"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>📈 LeetCode Tracker</h3>
-
-Tracks coding consistency and visualizes problem-solving growth.
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
-</p>
-
-<a href="https://github.com/sonakshii05/Leetcode_tracker">
-<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3>🌐 Personal Portfolio</h3>
-
-Minimal responsive portfolio showcasing projects and journey.
-
-<p>
-<img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3"/>
-</p>
-
-<a href="https://github.com/sonakshii05/Portfolio">
-<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -236,7 +204,7 @@ Exploring global pandemic trends through data cleaning, exploratory analysis, an
 
 <br>
 
-<img src="https://img.shields.io/badge/Status-In%20Progress-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-completed-2563eb?style=for-the-badge"/>
 
 </td>
 
