@@ -57,12 +57,16 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 
 ### 📊 Data & Analysis
 <p>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=databricks"/>
-<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
-
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=databricks"/>
+  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter%20Notebooks-111827?style=for-the-badge&logo=jupyter"/>
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=plotly"/>
+  <img src="https://img.shields.io/badge/CSV-111827?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Tools
