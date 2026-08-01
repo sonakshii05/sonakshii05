@@ -130,12 +130,6 @@ Turning data into insight and ideas into clean interfaces.
 </p>
 
 ---
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%">
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
