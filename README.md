@@ -129,7 +129,8 @@ Turning data into insight and ideas into clean interfaces.
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+<!-- ================= FEATURED PROJECTS ================= -->
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
@@ -196,6 +197,31 @@ Explores NBA player performance using SQL, Python, Excel, and Tableau.
 </td>
 
 <td width="50%" valign="top">
+
+<h3>💬 Sentiment Analysis using NLP</h3>
+
+NLP-based sentiment classification project with text preprocessing, machine learning, and an interactive Streamlit interface.
+
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit"/>
+</p>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+
+---
+
 ## 🧭 What I'm Building Toward
 
 My goal is to become a **Data Analyst** who transforms raw data into meaningful insights through analytics, visualization, and thoughtful problem-solving.
@@ -212,6 +238,8 @@ I'm continuously building projects that strengthen my skills in data analysis, f
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
+---
+
 ## 🧩 My Development Philosophy
 
 - 🔍 Understand the problem before choosing the technology.
@@ -220,7 +248,9 @@ I'm continuously building projects that strengthen my skills in data analysis, f
 - ✨ Prioritize clean, maintainable, and user-focused designs.
 - 🚀 Believe that consistent progress leads to meaningful results.
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
+---
 
 ## 🤝 Connect With Me
 
