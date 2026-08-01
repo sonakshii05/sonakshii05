@@ -24,13 +24,14 @@ Turning data into insight and ideas into clean interfaces.
 
 ## 🌙 About Me
 
-🎓 Computer Science Engineering Student  
-📊 Focused on **Data Analysis & Problem Solving**  
-💻 Experience building **clean frontend interfaces**  
-🧠 Strengthening **DSA & core CS fundamentals**  
-🚀 Learning by building, refining, and improving every day
+- 🎓 B.Tech CSE Student(5th Sem)
+- 📊 Aspiring Data Analyst
+- 💻 Frontend Developer
+- 🧠 Passionate about Data, AI & Problem Solving
+- 📈 Exploring  Tableau & Power BI
+- 🚀 Building projects that combine analytics with intuitive user experiences
 
-I enjoy working with structured logic — analyzing data, discovering patterns, and presenting insights through intuitive designs.
+> *Turning data into insights and ideas into interactive experiences.*
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
@@ -79,6 +80,14 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
   <img src="https://img.shields.io/badge/GitHub%20Desktop-111827?style=for-the-badge&logo=github"/>
 </p>
 
+### 📚 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/AWT-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
+</p>
+
 ### 🚀 Currently Learning
 <p>
   <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
@@ -116,6 +125,9 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
@@ -127,50 +139,6 @@ I enjoy working with structured logic — analyzing data, discovering patterns, 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🤖 Ripi — AI Portfolio Assistant</h3>
-
-Interactive AI-powered portfolio experience built with clean UI principles.
-
-<p>
-<img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
-</p>
-
-<a href="https://github.com/sonakshii05/ripi">
-<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://ripi-ai.onrender.com/">
-<img src="https://img.shields.io/badge/Live%20Demo-2563eb?style=for-the-badge&logo=vercel"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>☕ CafeX — Anime Café Website</h3>
-
-Responsive anime-themed café website with smooth UI and modern design.
-
-<p>
-<img src="https://img.shields.io/badge/HTML-111827?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-111827?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
-</p>
-
-<a href="https://github.com/sonakshii05/coffee-website">
-<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -234,31 +202,31 @@ Explores NBA player performance using SQL, Python, Excel, and Tableau.
 </td>
 
 <td width="50%" valign="top">
-
 ## 🧭 What I'm Building Toward
 
-I aim to grow into a Data Analyst who combines analytical thinking with intuitive visualization — transforming raw datasets into meaningful stories that support real decisions.
+My goal is to become a **Data Analyst** who transforms raw data into meaningful insights through analytics, visualization, and thoughtful problem-solving.
 
-Currently focusing on:
+I'm continuously building projects that strengthen my skills in data analysis, frontend development, and machine learning while exploring how data can drive better decisions.
 
-- 📊 Strengthening data analysis foundations
-- 🧠 Applying NLP to real-world datasets
-- 🎨 Connecting data insights with clean user interfaces
-- 🚀 Building projects that reflect continuous improvement
+### 🌱 Currently Focusing On
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+- 📊 Strengthening Python, SQL, Excel, and data visualization
+- 📈 Building interactive dashboards with Tableau & Power BI
+- 🧠 Exploring NLP and machine learning fundamentals
+- 🎨 Creating intuitive, user-friendly data applications
+- 💼 Preparing for internships and technical interviews
 
-## 🧩 How I Approach Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
-- Understand the problem before choosing tools  
-- Prefer clarity and structure over complexity  
-- Build working solutions first, then refine  
-- Treat every project as a learning iteration  
-- Focus on consistency rather than speed.
+## 🧩 My Development Philosophy
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+- 🔍 Understand the problem before choosing the technology.
+- 🏗️ Build simple, functional solutions before optimizing.
+- 📚 Treat every project as an opportunity to learn.
+- ✨ Prioritize clean, maintainable, and user-focused designs.
+- 🚀 Believe that consistent progress leads to meaningful results.
+
+
 
 ## 🤝 Connect With Me
 
