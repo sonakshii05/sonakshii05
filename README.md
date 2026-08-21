@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sonakshi</h1>
 <h3 align="center">💻 CSE Student | 📊 Aspiring Data Analyst | 🧠 Problem Solver</h3>
 
-<p align="center">
-Turning data into insight and ideas into clean interfaces.
-</p>
+
 
 <p align="center">
   <a href="https://ripi-ai.onrender.com/">
