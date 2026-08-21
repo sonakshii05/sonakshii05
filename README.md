@@ -1,19 +1,29 @@
+Absolutely. Your current README is good, but it’s **too long, repetitive, and slightly scattered** for the direction you're positioning yourself toward now. Since you're aiming more strongly at **Data Analytics**, I’d make that the core identity and keep frontend/AI as supporting strengths.
+
+I’d also remove things that look like filler—duplicate Tableau/Power BI/Jupyter badges, overly broad “currently learning” items, and projects that aren't actually your strongest representation.
+
+Here’s a cleaner, more professional version based on your current profile and projects:
+
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Sonakshi</h1>
-<h3 align="center">💻 CSE Student | 📊 Aspiring Data Analyst | 🧠 Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Sonakshi Padhi</h1>
 
-
+<h3 align="center">
+📊 Aspiring Data Analyst &nbsp;|&nbsp; 💻 CSE Student &nbsp;|&nbsp; 🤖 Data & AI Enthusiast
+</h3>
 
 <p align="center">
   <a href="https://ripi-ai.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=sonakshii05&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Frontend+Developer;DSA+Learner;Building+Consistency+Every+Day"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=25&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Data+Visualization+%7C+Power+BI+%7C+Tableau;Building+Data-Driven+Projects"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
@@ -22,96 +32,254 @@
 
 ## 🌙 About Me
 
-- 🎓 B.Tech CSE Student(5th Sem)
-- 📊 Aspiring Data Analyst
-- 💻 Frontend Developer
-- 🧠 Passionate about Data, AI & Problem Solving
-- 📈 Exploring  Tableau & Power BI
-- 🚀 Building projects that combine analytics with intuitive user experiences
+I'm a **B.Tech Computer Science & Engineering student** interested in using data to understand problems, discover patterns, and build meaningful solutions.
 
-> *Turning data into insights and ideas into interactive experiences.*
+My current focus is on **Data Analytics, Data Visualization, Python, SQL, and Business Intelligence**, while continuing to strengthen my foundations in software development and AI.
+
+* 🎓 B.Tech CSE Student — 5th Semester
+* 📊 Aspiring Data Analyst
+* 🐍 Working with Python, Pandas & NumPy
+* 🗄️ Learning and practicing SQL & database systems
+* 📈 Building dashboards with Power BI & Tableau
+* 🤖 Exploring AI, NLP & machine learning
+* 💻 Comfortable with frontend development and interactive interfaces
+* 🚀 Building projects to turn data into understandable insights
+
+> **Turning raw data into insights, and ideas into useful experiences.**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### 💻 Languages
+### 🐍 Programming Languages
+
 <p>
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white"/>
+</p>
+
+### 📊 Data Analytics & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter"/>
 </p>
 
 ### 🌐 Web Development
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=for-the-badge&logo=tailwindcss"/>
 </p>
 
-### 📊 Data & Analysis
+### 🤖 AI & Machine Learning
+
 <p>
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge&logo=databricks"/>
-  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
-  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-111827?style=for-the-badge&logo=jupyter"/>
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn"/>
+  <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TF--IDF-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM-111827?style=for-the-badge"/>
 </p>
 
-### ⚙️ Tools
+### 🗄️ Databases & Tools
+
 <p>
+  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter"/>
-  <img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
-  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/GitHub%20Desktop-111827?style=for-the-badge&logo=github"/>
 </p>
 
-### 📚 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/AWT-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
-</p>
+---
 
-### 🚀 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r"/>
-  <img src="https://img.shields.io/badge/Seaborn-111827?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws"/>
-</p>
+# 🎯 Current Focus
+
+```text
+Data Analytics
+    ├── Python
+    ├── SQL
+    ├── Excel
+    ├── Pandas & NumPy
+    └── Statistics
+
+Data Visualization
+    ├── Power BI
+    ├── Tableau
+    ├── Matplotlib
+    └── Seaborn
+
+Development
+    ├── React
+    ├── APIs
+    └── Tailwind CSS
+
+AI & ML
+    ├── NLP
+    ├── Machine Learning
+    └── LLM Applications
+```
+
+* 📊 Building data analysis and visualization projects
+* 🧮 Strengthening SQL and analytical problem-solving
+* 📈 Creating interactive dashboards
+* 🤖 Exploring practical AI/NLP applications
+* 🧩 Practicing DSA and core CS fundamentals
+* 💼 Preparing for internships and future data-focused roles
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
-## 🎯 Current Focus
 
-- 📈 Building **data-driven projects**
-- 🎨 Visualizing insights using frontend skills
-- 🧩 Practicing DSA *(Arrays • Strings • Trees • Graphs)*
-- 💼 Preparing for technical interviews
+# 🚀 Featured Projects
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>📚 PageWhisper — AI Book Recommendation Engine</h3>
+
+AI-powered book recommendation platform using **TF-IDF, cosine similarity, and NLP-based semantic search**.
+
+<p>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
+</p>
+
+**Key Features**
+
+* Personalized recommendations
+* NLP semantic search
+* User authentication
+* Reading history & favorites
+* Reading statistics
+
+<a href="YOUR_PAGEWHISPER_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>📊 COVID-19 Data Analysis</h3>
+
+Data analysis and visualization project exploring global COVID-19 trends using Python and interactive dashboards.
+
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit"/>
+<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
+</p>
+
+**Focus Areas**
+
+* Data cleaning
+* Exploratory data analysis
+* Trend analysis
+* Interactive visualization
+
+<a href="YOUR_COVID_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🏀 NBA Player Analytics</h3>
+
+Exploratory analysis of multi-season NBA player data to identify performance patterns and generate meaningful visual insights.
+
+<p>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
+</p>
+
+**Focus Areas**
+
+* Data exploration
+* Player performance analysis
+* Statistical comparison
+* Data visualization
+
+<a href="YOUR_NBA_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>😊 Emotion Decoder</h3>
+
+Java desktop application combining keyword-based emotion detection with user history and database-backed pattern analysis.
+
+<p>
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/AWT-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
+</p>
+
+**Key Features**
+
+* Emotion detection engine
+* Adaptive question series
+* Emotional history
+* Pattern analysis
+* MySQL integration
+
+<a href="YOUR_EMOTION_DECODER_REPOSITORY">
+<img src="https://img.shields.io/badge/View%20Repository-0f172a?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# 💡 Other Projects
+
+| Project                                           | Description                                                       | Technologies                        |
+| ------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------- |
+| 🏠 **Home Automation Using Edge Computing**       | IoT automation system with local processing and web-based control | Arduino UNO R4 WiFi, Edge Computing |
+| 🧑‍💻 **Nagrik Setu**                             | Web platform developed with a focus on intuitive user interaction | React, MongoDB                      |
+| ☕ **CafeX**                                       | Anime-inspired interactive café website                           | HTML, CSS, JavaScript               |
+| 🪄 **Hogwarts: A Magical Interactive Experience** | Interactive themed web experience                                 | HTML, CSS, JavaScript               |
+| 🤖 **Portfolio AI Chatbot — Ripi**                | AI chatbot integrated into a personal portfolio                   | LLM, API, JavaScript                |
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonakshii05&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -122,144 +290,54 @@
   <img src="https://streak-stats.demolab.com?user=sonakshii05&theme=tokyonight&hide_border=true"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<!-- ================= FEATURED PROJECTS ================= -->
+---
 
-<h2 align="center">🚀 Featured Projects</h2>
+# 🧭 What I'm Building Toward
 
-<table>
-<tr>
+I want to build a career around **data, analytics, and technology**.
 
-<td width="50%" valign="top">
+My goal is to become a Data Analyst who can go beyond creating charts — someone who can **understand a business problem, work with messy data, identify meaningful patterns, communicate insights clearly, and support better decisions.**
 
-<h3>📊 COVID-19 Data Analysis Dashboard</h3>
+I'm currently strengthening my foundation in:
 
-Interactive dashboard analyzing global COVID-19 trends using Python and Streamlit.
+* 🐍 Python & data analysis
+* 🗄️ SQL & databases
+* 📊 Excel & business intelligence
+* 📈 Power BI & Tableau
+* 📐 Statistics & analytical thinking
+* 🤖 Machine learning & NLP fundamentals
 
-<p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit"/>
-<img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge"/>
-</p>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>😊 Emotion Decoder</h3>
-
-Java desktop application for emotion detection with MySQL database integration.
-
-<p>
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/AWT-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql"/>
-</p>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🏀 NBA Player Analytics Dashboard</h3>
-
-Explores NBA player performance using SQL, Python, Excel, and Tableau.
-
-<p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Tableau-111827?style=for-the-badge&logo=tableau"/>
-<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoft-excel"/>
-</p>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>💬 Sentiment Analysis using NLP</h3>
-
-NLP-based sentiment classification project with text preprocessing, machine learning, and an interactive Streamlit interface.
-
-<p>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit"/>
-</p>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-0f172a?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+> **The goal isn't just to work with data. It's to understand what the data is trying to say.**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
 ---
 
-## 🧭 What I'm Building Toward
+# 🧩 My Development Philosophy
 
-My goal is to become a **Data Analyst** who transforms raw data into meaningful insights through analytics, visualization, and thoughtful problem-solving.
-
-I'm continuously building projects that strengthen my skills in data analysis, frontend development, and machine learning while exploring how data can drive better decisions.
-
-### 🌱 Currently Focusing On
-
-- 📊 Strengthening Python, SQL, Excel, and data visualization
-- 📈 Building interactive dashboards with Tableau & Power BI
-- 🧠 Exploring NLP and machine learning fundamentals
-- 🎨 Creating intuitive, user-friendly data applications
-- 💼 Preparing for internships and technical interviews
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
+* 🔍 **Understand the problem before choosing the technology.**
+* 🧹 **Clean the data before trusting the insight.**
+* 📊 **Visualize information so it can actually be understood.**
+* 🏗️ **Build simple solutions before making them complex.**
+* 📚 **Learn by building, breaking, and rebuilding.**
+* 🚀 **Consistency matters more than short bursts of motivation.**
 
 ---
 
-## 🧩 My Development Philosophy
-
-- 🔍 Understand the problem before choosing the technology.
-- 🏗️ Build simple, functional solutions before optimizing.
-- 📚 Treat every project as an opportunity to learn.
-- ✨ Prioritize clean, maintainable, and user-focused designs.
-- 🚀 Believe that consistent progress leads to meaningful results.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
-
----
-
-## 🤝 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/sonakshii05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://ripi-ai.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://portfolio-sp1.netlify.app/">
@@ -267,7 +345,7 @@ I'm continuously building projects that strengthen my skills in data analysis, f
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
