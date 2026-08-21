@@ -275,34 +275,6 @@ Java desktop application combining keyword-based emotion detection with user his
 
 ---
 
-# 📈 GitHub Analytics
-
-<!-- ================= GITHUB ACTIVITY ================= -->
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=sonakshii05&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonakshii05&theme=tokyonight"
-    alt="GitHub Contribution Overview"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonakshii05&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-
----
 
 # 🧭 What I'm Building Toward
 
@@ -325,16 +297,6 @@ I'm currently strengthening my foundation in:
 
 ---
 
-# 🧩 My Development Philosophy
-
-* 🔍 **Understand the problem before choosing the technology.**
-* 🧹 **Clean the data before trusting the insight.**
-* 📊 **Visualize information so it can actually be understood.**
-* 🏗️ **Build simple solutions before making them complex.**
-* 📚 **Learn by building, breaking, and rebuilding.**
-* 🚀 **Consistency matters more than short bursts of motivation.**
-
----
 
 # 🤝 Let's Connect
 
