@@ -279,24 +279,34 @@ Java desktop application combining keyword-based emotion detection with user his
 
 <!-- ================= GITHUB ACTIVITY ================= -->
 
-<!-- ================= GITHUB ACTIVITY ================= -->
-
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonakshii05&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sonakshii05&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonakshii05&theme=tokyonight"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonakshii05&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonakshii05&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonakshii05&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
