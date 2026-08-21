@@ -278,20 +278,19 @@ Java desktop application combining keyword-based emotion detection with user his
 # 📈 GitHub Analytics
 
 <!-- ================= GITHUB ACTIVITY ================= -->
-
-<h2 align="center">📊 GitHub Activity</h2>
+# 📈 GitHub Analytics
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=sonakshii05&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://streak-stats.demolab.com/?user=sonakshii05&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonakshii05&theme=tokyonight"
-    alt="GitHub Profile Details"
+    alt="GitHub Contribution Overview"
   />
 </p>
 
@@ -302,12 +301,6 @@ Java desktop application combining keyword-based emotion detection with user his
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
 ---
 
