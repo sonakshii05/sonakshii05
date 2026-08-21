@@ -1,8 +1,4 @@
-Absolutely. Your current README is good, but it’s **too long, repetitive, and slightly scattered** for the direction you're positioning yourself toward now. Since you're aiming more strongly at **Data Analytics**, I’d make that the core identity and keep frontend/AI as supporting strengths.
 
-I’d also remove things that look like filler—duplicate Tableau/Power BI/Jupyter badges, overly broad “currently learning” items, and projects that aren't actually your strongest representation.
-
-Here’s a cleaner, more professional version based on your current profile and projects:
 
 <!-- ================= HEADER ================= -->
 
