@@ -41,7 +41,7 @@ My current focus is on **Data Analytics, Data Visualization, Python, SQL, and Bu
 * 💻 Comfortable with frontend development and interactive interfaces
 * 🚀 Building projects to turn data into understandable insights
 
-> **Turning raw data into insights, and ideas into useful experiences.**
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=2"/>
 
@@ -277,13 +277,24 @@ Java desktop application combining keyword-based emotion detection with user his
 
 # 📈 GitHub Analytics
 
+<!-- ================= GITHUB ACTIVITY ================= -->
+
+<h2 align="center">📊 GitHub Activity</h2>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sonakshii05&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonakshii05&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonakshii05&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonakshii05&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonakshii05&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonakshii05&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonakshii05&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
