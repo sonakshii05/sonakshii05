@@ -279,6 +279,8 @@ Java desktop application combining keyword-based emotion detection with user his
 
 <!-- ================= GITHUB ACTIVITY ================= -->
 
+<!-- ================= GITHUB ACTIVITY ================= -->
+
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
@@ -287,10 +289,6 @@ Java desktop application combining keyword-based emotion detection with user his
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonakshii05&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonakshii05&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 <p align="center">
